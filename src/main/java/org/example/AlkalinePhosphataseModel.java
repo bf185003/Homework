@@ -1,8 +1,5 @@
 package org.example;
 
-import org.jfree.data.category.DefaultCategoryDataset;
-import org.jfree.data.xy.XYDataset;
-
 public class AlkalinePhosphataseModel extends DataSet{
 
     //酶和PH值的关系

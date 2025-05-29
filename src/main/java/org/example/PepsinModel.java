@@ -1,8 +1,5 @@
 package org.example;
 
-import org.jfree.data.category.DefaultCategoryDataset;
-import org.jfree.data.xy.XYDataset;
-
 public class PepsinModel extends DataSet{
     @Override
     public void createPHActivityDataset() {
